@@ -3,7 +3,7 @@
 
 ## 📝 About the Project
 
-The **Kids E-Learning App** is a GUI-based educational software designed for early learners.  
+The **Kiddo Learner App** is a GUI-based educational software designed for early learners.  
 It provides multiple interactive learning modules covering basic educational topics such as alphabets, numbers, colors, animals, fruits, vegetables, birds, shapes, days, months, opposites & synonyms, and quizzes.
 
 The project follows a **modular architecture**, where each learning category is implemented as a separate module and integrated into a centralized main menu interface.
@@ -61,7 +61,7 @@ Ensure you have Python installed. You will also need to install the required ext
 pip install pillow pyttsx3
 
 ## 📂 Project Structure
-kids-elearning-app/
+kiddo_learner-app/
 │
 ├── kidselearningmain.py
 ├── module/
